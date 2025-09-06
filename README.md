@@ -1,4 +1,4 @@
-#ClipD - Clipboard Manager (In Development)
+# ClipD - Clipboard Manager (In Development)
 
 ClipD is a lightweight and minimal clipboard manager application developed using *C++ and Qt5*, designed to help users efficiently manage copied text snippets. It aims to offer simplicity, performance, and essential clipboard features in a clean and user-friendly interface.
 
