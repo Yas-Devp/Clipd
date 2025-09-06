@@ -1,0 +1,9 @@
+welcome to usage tutorial ;
+
+if the app doesn't show , check if any new appears in your linux panel or toolbar , click it to show the main window ;
+if no icon appears , open main.cpp using any text editor then change :
+
+change : window.hide();
+to -> window.show();
+
+it will work without problems , enjoy :)
